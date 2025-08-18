@@ -2,8 +2,8 @@
     "intro": {
         "tagline": "Competitive Advantage",
         "taglineColor": "#6A0DAD",
-        "title": "The Competitive Edge Angular Minds Provide to Clients",
-        "description": "To curate an impactful PWA, you need an organization that will provide end-to-end support, strategic solutions, expertise, and domain knowledge in the particular niche. Angular Minds is future-ready to deliver digital velocity for your project and make it an ROI-generating business."
+        "title": "The Competitive Edge MERNverse Provide to Clients",
+        "description": "To curate an impactful PWA, you need an organization that will provide end-to-end support, strategic solutions, expertise, and domain knowledge in the particular niche. MERNverse is future-ready to deliver digital velocity for your project and make it an ROI-generating business."
       },
       "benefits": [
         {
@@ -24,7 +24,7 @@
         {
           "iconPath": "assets/tickpurple.svg",
           "title": "Start-up and SME-friendly",
-          "description": "Whether you are a mid-sized enterprise or a budding startup, we are here to help you irrespective of the size of an organization. Web application technology is a need of the day and all companies require it. Angular Minds is startup and SME-supportive, giving you the digital leverage you need to move forward in your business."
+          "description": "Whether you are a mid-sized enterprise or a budding startup, we are here to help you irrespective of the size of an organization. Web application technology is a need of the day and all companies require it. MERNverse is startup and SME-supportive, giving you the digital leverage you need to move forward in your business."
         }
          ]
      ,
@@ -51,7 +51,7 @@
     "pwaServices": {
         "tagline": "PWA Expertise",
         "title": "Top Notch PWA Development Services",
-        "description": "Angular Minds’ PWA development services are",
+        "description": "MERNverse’ PWA development services are",
         "services": [
           {
             "icon": "✨",
@@ -143,7 +143,7 @@
       "coreCompetencies": {
         "head": "PWA Excellence Unleashed",
         "heading": "Our PWA Core Competencies",
-        "subheading": "In order to capture user engagement, offline access, and quality assurance, our team at Angular Minds acquired knowledge of a wide spectrum of libraries and associated technologies to serve you better. Our core competencies include:",
+        "subheading": "In order to capture user engagement, offline access, and quality assurance, our team at MERNverse acquired knowledge of a wide spectrum of libraries and associated technologies to serve you better. Our core competencies include:",
         "items": [
           {
             "title": "PWA SDK",
